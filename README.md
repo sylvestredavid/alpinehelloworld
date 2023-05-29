@@ -1,1 +1,1 @@
-[![Build Status](http://10.0.0.10:8080/job/deploiement/badge/icon)](http://10.0.0.10:8080/job/deploiement/)
+[![Build Status](https://0d7f-92-184-110-46.eu.ngrok.io/job/deploiement/badge/icon)](https://0d7f-92-184-110-46.eu.ngrok.io/job/deploiement/)
