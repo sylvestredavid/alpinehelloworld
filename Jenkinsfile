@@ -1,4 +1,6 @@
+/* import shared library */
 @Library('shared-librairies')
+
 pipeline {
     environment {
         IMAGE_NAME = "alpinehelloworld"
